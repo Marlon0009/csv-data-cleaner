@@ -1,0 +1,16 @@
+id,name,email,birthdate,city,salary,department
+1,Anna Müller,anna.mueller@example.com,15.03.1990,Berlin,52000,Engineering
+2,Tom Schneider,tom.schneider@example.com,2021-07-22,Hamburg,61000,Marketing
+3,Lisa Fischer,lisa.fischer@example,14/08/1985,München,48000,Sales
+4,Max Braun,max.braun@example.com,03.11.1992,Berlin,55000,Engineering
+5,Sarah Weber,sarah.weber@example.com,1988-12-01,Frankfurt,67000,HR
+6,Tom Schneider,tom.schneider@example.com,2021-07-22,Hamburg,61000,Marketing
+7,Jan Koch,,25.06.1995,Köln,43000,Support
+8,Eva Hoffmann,eva.hoffmann@example.com,1990-03-15,Stuttgart,58000,
+9,Peter Bauer,peter.bauer@example.com,99-13-45,Düsseldorf,72000,Finance
+10,Clara Jung,clara@jung@example.com,17.09.1993,Leipzig,51000,Sales
+11,Anna Müller,anna.mueller@example.com,15.03.1990,Berlin,52000,Engineering
+12,Felix Schmitt,felix.schmitt@example.com,2000-04-30,Nürnberg,,IT
+13,Nina Wolf,nina.wolf@example.com,08.02.1987,Bremen,63000,Marketing
+14,Lars Richter,lars.richter,12.12.1991,Dortmund,59000,Finance
+15,Mia Vogel,mia.vogel@example.com,1996-11-20,Hannover,47000,Support
